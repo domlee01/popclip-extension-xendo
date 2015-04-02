@@ -1,4 +1,5 @@
 # popclip-extension-xendo
 
-Popclip extension for searching on Xendo
+Popclip extension for Xendo
 
+Highlight test and search on Xendo
